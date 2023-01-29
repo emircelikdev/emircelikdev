@@ -33,4 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircelikdev&show_icons=true&locale=en&layout=compact" alt="emircelikdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emircelikdev&show_icons=true&locale=en" alt="emircelikdev" /></p>
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=emircelikdev&show_icons=true&theme=radical)
+
+
